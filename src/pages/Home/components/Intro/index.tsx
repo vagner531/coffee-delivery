@@ -6,7 +6,7 @@ import {
 } from "./styles";
 import imgCoffee from "../../../../assets/Imagem-cafe.png";
 import { RegularText } from "../../../../components/Typography";
-import { InfoWithIcon } from "../../../../components/infoWithIcon";
+import { InfoWithIcon } from "../../../../components/InfoWithIcon";
 import { Coffee, Package, ShoppingCart, Timer } from "phosphor-react";
 import { useTheme } from "styled-components";
 
